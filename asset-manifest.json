@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dissertation_BITS/frontend/static/css/main.194ad810.css",
+    "main.js": "/Dissertation_BITS/frontend/static/js/main.d47c8956.js",
+    "static/media/bg-image.jpg": "/Dissertation_BITS/frontend/static/media/bg-image.2cb1a8eaf525a8a213c4.jpg",
+    "static/media/robot.jpeg": "/Dissertation_BITS/frontend/static/media/robot.c6a029931120bec47f96.jpeg",
+    "static/media/not_found.png": "/Dissertation_BITS/frontend/static/media/not_found.076dc4fc345349ee090f.png",
+    "index.html": "/Dissertation_BITS/frontend/index.html",
+    "main.194ad810.css.map": "/Dissertation_BITS/frontend/static/css/main.194ad810.css.map",
+    "main.d47c8956.js.map": "/Dissertation_BITS/frontend/static/js/main.d47c8956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194ad810.css",
+    "static/js/main.d47c8956.js"
+  ]
+}
