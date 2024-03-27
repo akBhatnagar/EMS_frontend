@@ -1,4 +1,3 @@
-import { Toast } from 'bootstrap';
 import React, { useState } from 'react';
 
 const constants = require('../utils/Constants');
